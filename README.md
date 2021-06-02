@@ -1,10 +1,10 @@
 ## Hi there, I'm [Aswin Kumar](https://master.d2w6px0fdt0my3.amplifyapp.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/Creatoraswin?style=social)
 
-![Profile Views](https://komarev.com/ghpvc/?username=teja0508&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Creatoraswin&style=flat-square)
 
 <p>
   <em>
-    A <b>Student&Research Scholar</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Hyderabad, India.
+    A <b>Student&Research Scholar</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Visakhapatnam, India.
   </em>
  </p>
 
@@ -69,7 +69,7 @@
 ### Top Languages
 
 <p align="center">
-<a href = "https://github.com/kishan0725">
+<a href = "https://github.com/Creatoraswin">
   <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=Creatoraswin&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
