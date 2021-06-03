@@ -14,8 +14,6 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as a Data Science Team & SDE at [EagleGenomics](https://www.eaglegenomics.com/);
-- 👨🏽‍💻 I also worked as part of a NLP Task-Force Team at [Devopedia](https://devopedia.org/);
 - 💼 I’m currently pursuing my Post-Graduation Programme in Computer Science and Engineering at [JNTUK-UCEV](https://jntukucev.ac.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of PSPK😎🤘🏻
