@@ -16,7 +16,6 @@
 
 - 💼 I’m currently pursuing my Post-Graduation Programme in Computer Science and Engineering at [JNTUK-UCEV](https://jntukucev.ac.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
-- 🎬 I love watching movies and I'm a big fan of PSPK😎🤘🏻
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via kumarikumar235@gmail.com to reach me;
 <br/> 
