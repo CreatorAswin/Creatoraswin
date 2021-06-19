@@ -18,6 +18,7 @@
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via kumarikumar235@gmail.com to reach me;
+- 📫 For more about me [Profile](https://creatoraswin.github.io/aswin/);
 <br/> 
 </em>
 
