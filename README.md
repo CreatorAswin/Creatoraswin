@@ -63,6 +63,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorAswin)](https://github.com/CreatorAswin)
 
 ### Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CreatorAswin&repo=REPO_NAME)](https://github.com/CreatorAswin/REPO_NAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorAswin&layout=compact)](https://github.com/CreatorAswin)
+
 
 
