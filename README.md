@@ -55,7 +55,3 @@
 
 ### Top Languages  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorAswin)](https://github.com/CreatorAswin)  
-
----
-
-Let me know if you'd like to tweak any section further! 😊
