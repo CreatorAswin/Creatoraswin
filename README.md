@@ -1,69 +1,64 @@
+Here's an updated version of your profile based on the details you provided:  
+
+---
+
 ## Hi there, I'm [Aswin Kumar](https://master.d2w6px0fdt0my3.amplifyapp.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/Creatoraswin?style=social)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Creatoraswin&style=flat-square)
 
 <p>
   <em>
-    A <b>Student&Research Scholar</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Visakhapatnam, India.
+    An <b>Assistant Professor</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>, passionate <b>developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>, and a <b>researcher</b> from Visakhapatnam, India.
   </em>
- </p>
+</p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <em>
   
-**Talking about Personal Stuffs:**
+**About Me:**
 
-- 💼 I’m currently pursuing my Post-Graduation Programme in Computer Science and Engineering at [JNTUK-UCEV](https://jntukucev.ac.in/);
-- 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via kumarikumar235@gmail.com to reach me;
-- 📫 For more about me [Profile](https://creatoraswin.github.io/aswin/);
+- 💼 I am currently working as an **Assistant Professor** in the Department of Computer Science at [Centurion University of Technology and Management, Andhra Pradesh (CUTMAP)](https://cutmap.ac.in/).
+- 🎓 I hold an **M-Tech (Gold Medal)** in Computer Science and Engineering from **JNTU-GV**, with **2.5 years of teaching experience**.
+- 💻 I am skilled in **Web Development**, **Programming Languages** (C, Java, Python), **Cloud Platforms** (AWS, Azure), and **Machine Learning**.
+- 🔬 My research focuses on **Machine Learning, Deep Learning**, and **Generative AI**.
+- 🤔 My interests span **UI/UX Design**, **Data Structures**, and exploring the latest in **Web and Cloud Technologies**.
+- 💬 Feel free to reach out if you want to discuss **coding, research, or technology**.
+- 📫 Contact me via email:aswinikumar@cutmap.ac.in.  
 <br/> 
 </em>
 
-### Worked with 
+### **Technologies I Work With:**
+
+#### **Languages & Frameworks:**
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="html"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="css"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" title="jquery"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="php"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" title="laravel"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="flask"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" title="Angular"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="Java"></code>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
+#### **Databases:**
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="MongoDB"></code>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="mongodb"></code>
+#### **Cloud Platforms:**
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/aws/aws.png" title="AWS"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/9c02102530b3ab9f7c2a0156b7f38f8c02d46427/topics/azure/azure.png" title="Azure"></code>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
+---
 
-
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="java"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" title="django"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="node.js"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="react.js"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" title="express.js"></code>
-
-
-
-
-
-
-
-### GitHub Stats
+### **GitHub Stats:**
 [![CreatorAswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreatorAswin)](https://github.com/CreatorAswin)
 
-### Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorAswin)](https://github.com/CreatorAswin)
+---
 
-### Top repositories
+### **Top Repositories:**
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorAswin&layout=compact)](https://github.com/CreatorAswin)
 
+---
 
-
+Let me know if you'd like further updates or edits!
