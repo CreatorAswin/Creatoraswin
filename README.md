@@ -10,16 +10,18 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-### About Me
-- 💼 I am currently working as an Assistant Professor in the Department of Computer Science at Centurion University of Technology and Management, Andhra Pradesh (CUTMAP). 
-- 📚 Completed **M.Tech** in Computer Science and Engineering from **JNTU-GV** in 2022, earning a prestigious **Gold Medal** for academic excellence.
-- 🔧 Proficient in **Web Development**, from **HTML** to frameworks like **React** and **Angular**.  
-- 🌐 Skilled in backend technologies such as **PHP**, **WordPress**, and working with **JSON**, **AJAX**.  
-- 💻 Experienced in programming languages: **C, Java, Python**.  
-- 🔢 Strong foundation in **Data Structures**, **Machine Learning**, **Deep Learning**, and **Generative AI**.  
-- ☁️ Cloud enthusiast with experience in **AWS** and **Azure**.  
-- 🎨 Interested in **UI/UX design** and creating user-centric interfaces.  
-- 📫 Contact me at aswinikumar@cutmap.ac.in.  
+### About Me  
+- 💼 I am currently working as an **Assistant Professor** in the Department of Computer Science at **Centurion University of Technology and Management, Andhra Pradesh (CUTMAP)**.  
+- 📚 Completed **M.Tech in Computer Science and Engineering** from **JNTU-GV** in 2022, earning a prestigious **Gold Medal** for academic excellence.  
+- 🔧 Proficient in **Web Development** technologies including **HTML**, **CSS**, **JavaScript**, **React**, and **Angular**.  
+- 🌐 Skilled in backend technologies such as **PHP**, **WordPress**, **Node.js**, and working with **JSON**, **AJAX**.  
+- 💻 Experienced in programming languages: **C**, **Java**, **Python**, with strong foundations in **Data Structures**, **Machine Learning**, **Deep Learning**, and **Generative AI**.  
+- ☁️ Cloud enthusiast with experience in **AWS**, **Azure**, and **Google Cloud**.  
+- 🎨 Design enthusiast with skills in **Canva**, **Adobe XD**, **Premiere Pro**, and tools like **CapCut**.  
+- 🔧 Hands-on with tools like **Postman**, **Visual Studio**, **VS Code**, **Pycharm**, **MobiXstream**, and **Eclipse**.  
+- 🔌 Hardware experience: **System Assembly and Disassembly**, **Software Installation**.  
+- 🎥 Youtuber with a knack for creating engaging content.  
+- 📫 Contact me at **aswinikumar@cutmap.ac.in**.  
 
 ---
 
@@ -41,12 +43,17 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="Java"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
 
-#### Other Skills  
+#### Backend and Databases  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="MongoDB"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js"></code>
+
+#### Tools and Cloud  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" title="AWS"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" title="Azure"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png" title="Google Cloud"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postman/postman.png" title="Postman"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio/visual-studio.png" title="Visual Studio"></code>
 
 ---
 
