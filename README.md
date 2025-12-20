@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    A passionate <b>Assistant Professor</b> at Centurion University of Technology and Management, Andhra Pradesh <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>, with 2.5 years of teaching experience, and a <b>self-taught programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Visakhapatnam, India.
+    A passionate <b>Assistant Professor</b> at Centurion University of Technology and Management, Andhra Pradesh <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>, with 3+ years of teaching experience, and a <b>self-taught programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Visakhapatnam, India.
   </em>
 </p>
 
