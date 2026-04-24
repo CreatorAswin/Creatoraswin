@@ -57,8 +57,5 @@
 
 ---
 
-### GitHub Stats  
-[![CreatorAswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreatorAswin)](https://github.com/CreatorAswin)  
-
 ### Top Languages  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorAswin)](https://github.com/CreatorAswin)  
